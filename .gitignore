@@ -1,0 +1,5 @@
+*/*.desktop
+*/*.pro.user
+*~
+*.kate-swp
+temp/*
